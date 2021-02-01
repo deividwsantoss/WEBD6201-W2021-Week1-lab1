@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-w2021-week1-lab1",
+  "version": "0.0.1",
+  "description": "Demo project for WEBD6201 week 1 ",
+  "main": "index.js",
+  "repository": "https://github.com/deividwsantoss/WEBD6201-W2021-Week1-lab1.git",
+  "author": "Deivid Santos <deivid.w.santos@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1"
+  }
+}
